@@ -19,6 +19,3 @@
 3. Complete the fizzbuzz function that loops over all the numbers from start to end (excluding the end value) and adds them to a list it returns. If the number is a multiple of 3, instead of appending the number, append "fizz". If the number is a multiple of 5, instead append "buzz". If it is a multiple of 3 and 5 then instead append "fizzbuzz".
 4. Write a function called divide_list() that takes a list and a number as input. The function returns a new list that contains all the elements of the original list except they have been divided by the second input.
 5. Write a function called join_strings() that takes a list of strings and returns a single string. Concatenate the strings from the list end-to-end, in order, with a comma between them. Don't use the .join() string method
-
-11-01-2025 - Linux
-1. variable name with a $ to use it.
